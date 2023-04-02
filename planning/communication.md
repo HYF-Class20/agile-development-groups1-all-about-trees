@@ -1,8 +1,13 @@
 # Communication
 
 ## Group Rules
+- Try to be friendly.
+- you need to respond within 3 hours
+- if someone makes a mistake, make sure to reach to the group member.
+- if you are stuck in a stuck, don't hesitate to call someone.
+- be present in the meeting.
+- try to be active.
 
-<!-- any general rules you'd like to set for your group? -->
 
 ---
 
@@ -16,11 +21,23 @@
 
 how often will we get in touch on each channel, and what we will discuss there:
 
+- On daily basisi we will contact each other on slack.
+- make sure to put all three members on reviewers
+
+
 - **Issues**:
+-  make sure to create issue first before doing things.
+
 - **Pull Requests**:
+- majority of votes three reviewers need to approve
+
 - **GitHub Discussions**
+-
 - **Slack/Discord**:
+- Slack
+
 - **Video Calls**:
+- video call prefer google meets
 
 ---
 
@@ -30,15 +47,18 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Emran  | 8 - 4   | 8 - 4   |  8 - 4    | 8 - 4    | 8 - 4   | 8 - 4    | 13 - 20 |
+| Radimir| 11 - 24 | 11 - 24 |  11 - 24  | 11 - 24  | 11 - 24 |11 - 24   | 11 - 24 |
+| Saida  | 11 - 24 | 11 - 24 |  11 - 24  |11 - 24   |  13 - 20| 13 - 20  | 13 - 20  |
+|Andreia | 11 - 24 | 11 - 24 |  11 - 24  | 11 - 24  |11 - 24  | 11 - 24  | 13 - 20  |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Emran: _5h_; extra comments?
+- Saida: _6h_;
+- Andreia: _5h_;
+- Radimir: _4h_;
+
 
 ## Asking for Help
 
