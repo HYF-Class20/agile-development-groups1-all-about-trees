@@ -8,7 +8,6 @@
 
 ### ### As a User, I want to create a customizable navigation bar that fits the needs of my website
 
-
 ### As a User, I want to access a navigation bar that includes an introduction section with information about the project and the group members working on it so that I can easily navigate through the website and learn more about the project and its creators.
 
 ### As a User, I want to access a navigation bar that includes a content section with information about the content of the page so that I can easily navigate through the website and understand the main content of the page.
