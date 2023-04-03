@@ -2,11 +2,9 @@
 
 ## user-Stories
 
-
-
 ### As a website editor, I want to create a customizable title for each webpage so that I can improve the SEO and attract more visitors to the website.
 
- ### As a User, I want to see a tree emoji on both the right and left sides of the title so that the webpage looks visually appealing and engaging.
+### As a User, I want to see a tree emoji on both the right and left sides of the title so that the webpage looks visually appealing and engaging.
 
 ### As a User, I want to be able to create a navigation bar that includes an introduction title, a content title, and extra links so that I can customize the navigation to fit the needs of my website.
 
