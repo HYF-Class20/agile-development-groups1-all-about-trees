@@ -6,7 +6,8 @@
 
 ### As a User, I want to see a tree emoji on both the right and left sides of the title so that the webpage looks visually appealing and engaging.
 
-### As a User, I want to be able to create a navigation bar that includes an introduction title, a content title, and extra links so that I can customize the navigation to fit the needs of my website.
+### ### As a User, I want to create a customizable navigation bar that fits the needs of my website
+
 
 ### As a User, I want to access a navigation bar that includes an introduction section with information about the project and the group members working on it so that I can easily navigate through the website and learn more about the project and its creators.
 
