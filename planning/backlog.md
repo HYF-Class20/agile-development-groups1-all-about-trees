@@ -1,30 +1,59 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+A collection of user stories for your project. Stories inside of each priority
+level are not necessarily in order. You and your team will decide when to
+develop each story by drawing out your [Story Sequencing](#story-sequencing).
 
 ## Must-Haves
 
-> these are necessary for basic usability
+are necessary for basic usability:
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- **user story name**: As a [type of user] I want to [do something] so that [I
+  achieve some goal]
+  - Given [context] when [a specific action is performed] then [a set of
+    consequences should occur]
+  - ...
+- **user story name**: As a [type of user] I want to [do something] so that [I
+  achieve some goal]
+  - Given [context] when [a specific action is performed] then [a set of
+    consequences should occur]
+  - ...
+- ...
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
+will complete the user experience, but are not necessary:
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- **user story name**: As a [type of user] I want to [do something] so that [I
+  achieve some goal]
+  - Given [context] when [a specific action is performed] then [a set of
+    consequences should occur]
+  - ...
+- **user story name**: As a [type of user] I want to [do something] so that [I
+  achieve some goal]
+  - Given [context] when [a specific action is performed] then [a set of
+    consequences should occur]
+  - ...
+- ...
 
 ## Could-Haves
 
-> would be really cool ... if there's time
+would be really cool ... if there's time:
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- **user story name**: As a [type of user] I want to [do something] so that [I
+  achieve some goal]
+  - Given [context] when [a specific action is performed] then [a set of
+    consequences should occur]
+  - ...
+- **user story name**: As a [type of user] I want to [do something] so that [I
+  achieve some goal]
+  - Given [context] when [a specific action is performed] then [a set of
+    consequences should occur]
+  - ...
+- ...
+
+---
+
+## Story Sequencing
+
+![story sequencing graph](./story-sequencing-graph.svg)
