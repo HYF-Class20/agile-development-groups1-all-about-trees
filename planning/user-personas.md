@@ -1,35 +1,17 @@
-# User Personas
+ **User Persona**
+# Persona 1: Sarah
+# Role: Environmentalist
+#  Admin of the project
 
-- Name : Radimir
+- **Bio**: Sarah is an environmentalist who is passionate about trees and their role in the ecosystem. She has a background in environmental science and has worked on various tree-planting and conservation projects.
 
-- Deomographics: 19-year-old-male, is not married yet, living in the city, holds
-  a high a school degree. studying web-development in hack-Your-Future
+- **Needs/Goals**: Sarah wants to raise awareness about the importance of trees and encourage more people to take action to protect them. She also wants to learn more about the different types of trees and their unique characteristics.
 
-- Background: Radimir has been studying web development course for the last
-  three weeks and is passionate about solving complex problems through
-  innovative solutions. He enjoys playing video games, spending time with his
-  family, and exploring new technologies
-
-## Their Role
-
-- Admin of the project
-
-- **Bio**: Radimir is a detail-oriented, analytical, and creative thinker. He is
-  motivated by his passion for technology and his desire to make a positive
-  impact on the world. He enjoys collaborating with his team members and taking
-  on new challenges.
-
-- **Needs/Goals**: Radimir's primary goal is to improve the efficiency and
-  effictiveness of his team's software development process. He is always looking
-  for new tools and technologies that can help streamline workflows.
 
 - **Frustrations**:
-- Radimir is frustrated by the time and resources wasted on manual testing,
-  debugging, and maintenance. He is also frustrated by the lack of flexibility
-  and customization options in some of the existing software development tools.
-  He wants a solution that can adapt to his team's unique needs and workflows.
+-Sarah is frustrated by the lack of knowledge and awareness about trees in the general public. She often encounters people who do not understand the importance of trees and the role they play in mitigating climate change and maintaining a healthy ecosystem.
 
-- **Scenario 1**: Radimir is assigned to lead a new web development project that
-  requires a some experience in html and css.
+
+- **Scenario 1**: Sarah is organizing a community event to plant trees in a local park. She wants to make sure that the event is well-attended and that people understand the importance of the trees they are planting. She also wants to provide educational resources and activities to help people learn more about the different types of trees and their role in the ecosystem.
 
 ---
