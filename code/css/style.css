@@ -11,12 +11,10 @@ body {
   padding-top: 2%;
   padding-bottom: 2%;
 }
-
 .emoji {
   width: 100px;
-  height: 10 0px;
+  height: 100px;
 }
-
 .navigation {
   list-style: none;
   text-align: center;
