@@ -2,9 +2,7 @@
 
 All About Trees
 
-- This website offers an informative overview of trees, including an
-  introductory section that provides valuable insights into their
-  characteristics and unique features.
+- This website offers an informative overview of trees, including an introductory section that provides valuable insights into their characteristics and unique features.
 
 ## Setup
 
