@@ -6,7 +6,7 @@ All About Trees
   introductory section that provides valuable insights into their
   characteristics and unique features.
 
-# setup
+# Setup
 
 The website has been set up with several key components. These include:
 
