@@ -7,6 +7,7 @@ All About Trees
   characteristics and unique features.
 
 # setup
+
 The website has been set up with several key components. These include:
 
 . A boilerplate HTML file, which serves as a foundation for the site's code and
@@ -26,13 +27,16 @@ including a prominent image of a tree.
 layout of the website. This allows for a consistent and professional appearance
 across all pages of the site.
 
-# Site Title:
+# Site Title
+
 As a user, I can easily read the title of the website, which is adorned on both
 sides with a tree emoji. This adds a fun and visually appealing element to the
 website while also emphasizing its focus on trees and the environment.
 
-# HTML:
+# HTML
+
 The html code is used to create a header with a prominent site title.
 
-# CSS:
+# CSS
+
 Css has been used to center the site title.
