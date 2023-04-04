@@ -5,11 +5,11 @@
 ## Overview
 
 This project aims to create a website that provides an online resource dedicated
- to educating and raising awareness about trees. Our platform is designed to
- cater to the needs of individuals with a range of interests and abilities. The
- website will include various resources, such as articles, videos, and diagrams,
- to educate the public on different types of trees, their importance, and how
- they can help protect them.
+to educating and raising awareness about trees. Our platform is designed to
+cater to the needs of individuals with a range of interests and abilities. The
+website will include various resources, such as articles, videos, and diagrams,
+to educate the public on different types of trees, their importance, and how
+they can help protect them.
 
 ## Head Section
 
@@ -24,15 +24,15 @@ they can help protect them.
 
 The website includes the following sections:
 
-* *About Trees*: A section that provides information on trees, such
-as their anatomy, lifecycle, and ecological significance.
+- _About Trees_: A section that provides information on trees, such as their
+  anatomy, lifecycle, and ecological significance.
 
-* *Types of Trees*: A section that covers different types of trees, including
-their characteristics, habitat, and distribution.
+- _Types of Trees_: A section that covers different types of trees, including
+  their characteristics, habitat, and distribution.
 
-* *Benefits of Trees*: A section that highlights the various benefits of trees,
-such as their role in mitigating climate change, improving air quality, and
-providing habitat for wildlife.
+- _Benefits of Trees_: A section that highlights the various benefits of trees,
+  such as their role in mitigating climate change, improving air quality, and
+  providing habitat for wildlife.
 
 ## Interactive Tools
 
@@ -49,13 +49,14 @@ and resources on how to take action and make a difference.
 
 The footer of the website includes useful links, such as:
 
-* *Contact Us*: A link to a contact form where the users can provide feedback or
-ask questions.
+- _Contact Us_: A link to a contact form where the users can provide feedback or
+  ask questions.
 
-* *About Us*: A page that provides information about the creators of the website.
+- _About Us_: A page that provides information about the creators of the
+  website.
 
-* *Privacy Policy*: A page that outlines the website's privacy policy and how it
-protects users' information.
+- _Privacy Policy_: A page that outlines the website's privacy policy and how it
+  protects users' information.
 
 ## Target Audience
 
@@ -75,11 +76,11 @@ The website is built using HTML, CSS, and JavaScript.
 Contributions to this project are welcome! If you would like to contribute,
 please follow these guidelines:
 
-* Fork the repository and create a new branch for your changes.
+- Fork the repository and create a new branch for your changes.
 
-* Make your changes and submit a pull request.
+- Make your changes and submit a pull request.
 
-* Ensure that your code is well-documented and follows best practices.
+- Ensure that your code is well-documented and follows best practices.
 
 ## Conclusion
 
@@ -90,21 +91,21 @@ that our platform will help raise.
 
 ## Table of contents
 
-* [Name of project] (#name-of-project)
-* [Table of contents](#table-of-contents)
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Code Examples](#code-examples)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
-* [Instructions for use](#instructions-for-use)
-* [Code Quality Checks](#code-quality-checks)
-* [Continuous Integration (CI)](#continuous-integration-ci)
-* [Repo Setup](#repo-setup)
+- [Name of project] (#name-of-project)
+- [Table of contents](#table-of-contents)
+- [General info](#general-info)
+- [Screenshots](#screenshots)
+- [Technologies](#technologies)
+- [Setup](#setup)
+- [Code Examples](#code-examples)
+- [Features](#features)
+- [Status](#status)
+- [Inspiration](#inspiration)
+- [Contact](#contact)
+- [Instructions for use](#instructions-for-use)
+- [Code Quality Checks](#code-quality-checks)
+- [Continuous Integration (CI)](#continuous-integration-ci)
+- [Repo Setup](#repo-setup)
 
 ## General info
 
@@ -116,16 +117,16 @@ that our platform will help raise.
 
 ## Technologies
 
-* Node 14.16.0
-* VSC code
-* JavaScript
-* ...
+- Node 14.16.0
+- VSC code
+- JavaScript
+- ...
 
-* ...
+- ...
 
 ## Setup
 
-* `npm run start`
+- `npm run start`
 
 ## Code Examples
 
@@ -138,18 +139,18 @@ console.log("Hello World");
 
 List of features ready and Todos for future development
 
-*
-*
-*
+-
+-
+-
 
 To-do list:
 
-*
-*
+-
+-
 
 ## Status
 
-Project is: *in progress*
+Project is: _in progress_
 
 ## Inspiration
 
@@ -172,19 +173,19 @@ By [Name]
 
 ## Code Quality Checks
 
-* `npm run format`: Makes sure all the code in this repository is well-formatted
+- `npm run format`: Makes sure all the code in this repository is well-formatted
   (looks good).
-* `npm run lint:ls`: Checks to make sure all folder and file names match the
+- `npm run lint:ls`: Checks to make sure all folder and file names match the
   repository conventions.
-* `npm run lint:md`: Will lint all of the Markdown files in this repository.
-* `npm run lint:css`: Will lint all of the CSS files in this repository.
-* `npm run validate:html`: Validates all HTML files in your project.
-* `npm run spell-check`: Goes through all the files in this repository looking
+- `npm run lint:md`: Will lint all of the Markdown files in this repository.
+- `npm run lint:css`: Will lint all of the CSS files in this repository.
+- `npm run validate:html`: Validates all HTML files in your project.
+- `npm run spell-check`: Goes through all the files in this repository looking
   for words it doesn't recognize. Just because it says something is a mistake
   doesn't mean it is! It doesn't know every word in the world. You can add new
   correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
   an error.
-* `npm run accessibility -- ./path/to/file.html`: Runs an accessibility analysis
+- `npm run accessibility -- ./path/to/file.html`: Runs an accessibility analysis
   on all HTML files in the given path and writes the report to
   `/accessibility_report`
 
@@ -200,16 +201,16 @@ locally.
 
 ## Repo Setup
 
-* Give each member *write* access to the repo (if it's a group project)
-* Turn on GitHub Pages and put a link to your website in the repo's description
-* Turn on GitHub Actions
-* in the *Branches* section of your repo's settings make sure:
-* The repository
-    [requires a review](https://github.blog/2018-03-23-require-multiple-reviewers/)
-    before pull requests can be merged.
-* The *master*/*main* branch must "_
-Require status checks to pass before merging_"
-* The *master*/*main* branch must "_
-Require require branches to be up to date before merging_"
+- Give each member _write_ access to the repo (if it's a group project)
+- Turn on GitHub Pages and put a link to your website in the repo's description
+- Turn on GitHub Actions
+- in the _Branches_ section of your repo's settings make sure:
+- The repository
+  [requires a review](https://github.blog/2018-03-23-require-multiple-reviewers/)
+  before pull requests can be merged.
+- The _master_/_main_ branch must "_Require status checks to pass before
+  merging_"
+- The _master_/_main_ branch must "_Require require branches to be up to date
+  before merging_"
 
 </details>
