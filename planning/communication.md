@@ -1,26 +1,34 @@
 # Communication
 
+This document outlines the communication plan for Project X. The plan covers
+group rules, communication schedule, communication channels, availability of
+team members, and guidelines for asking for help.
+
 ## Group Rules
 
-<!-- any general rules you'd like to set for your group? -->
+Make sure to not to overlap on our team members tasks. If you need help make
+sure to ask your team members & coaches, we are here to learn! We are a team
+which means that we must communicate w each other and update on the tasks that
+have been done. Be active in the team, by reacting w the team memebers,
+participarte in meetings and help w the tasks.
 
 ---
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day  | How | The topic of discussion    |
+| ---- | :-: | -------------------------- |
+| 3/03 |     | Project def + distrib task |
 
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
+How often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: Make sure to write all what have been done w the right labels
+- **Pull Requests**: Make sure to make a detailed PR
+- **GitHub Discussions**: Not used mostly Slack
+- **Slack/Discord**: Respond within 3 hours, be active as a team member
+- **Video Calls**: Google Teams, make sure to be present & participate
 
 ---
 
@@ -28,17 +36,19 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day     |     Monday      |     Tuesday     |    Wednesday    |    Thursday     |     Friday      |    Saturday     |     Sunday      |
+| ------- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| Saida   |     10 - 20     |     10 - 20     |     10 - 20     |     10 - 20     |     10 - 20     |     10 - 20     |     13 - 20     |
+| Radimir | 10 - 15 & 18-20 | 10 - 15 & 18-20 | 10 - 15 & 18-20 | 10 - 15 & 18-20 | 10 - 15 & 18-20 | 10 - 15 & 18-20 | 10 - 15 & 18-20 |
+| Emran   |     13 - 20     |     13 - 20     |     13 - 20     |     13 - 20     |     13 - 20     |     13 - 20     |     13 - 20     |
+| Andreia |     13 - 17     |     13 - 17     |     13 - 17     |     13 - 17     |     13 - 17     |     13 - 17     |     13 - 17     |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Andreia: _5h_;
+- Saida: _5h_;
+- Radimir: _5h_;
+- Emran: _5h_;
 
 ## Asking for Help
 
