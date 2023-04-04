@@ -3,6 +3,7 @@ body {
   font-size: 14px;
 }
 .head {
+
   display: flex;
   justify-content: center;
   align-items: center;
@@ -14,7 +15,6 @@ body {
   width: 100px;
   height: 100px;
 }
-
 .navigation {
   list-style: none;
   text-align: center;
@@ -30,7 +30,6 @@ body {
   margin-right: 5%;
   width: 27%;
 }
-
 ul {
   background-color: #f2f2f2;
 }
