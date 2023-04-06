@@ -1,6 +1,6 @@
 # User Personas
 
-### Role: Environmentalist
+## Role: Environmentalist
 
 - **Bio**: Sarah is an environmentalist who is passionate about trees and their
   role in the ecosystem. She has a background in environmental science and has
