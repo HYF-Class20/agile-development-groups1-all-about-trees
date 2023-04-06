@@ -1,8 +1,6 @@
 # User Personas
 
-## Persona 1: Sarah
-
-### Role: Environmentalist
+## Role: Environmentalist
 
 - **Bio**: Sarah is an environmentalist who is passionate about trees and their
   role in the ecosystem. She has a background in environmental science and has
@@ -23,8 +21,6 @@
   people understand the importance of the trees they are planting. She also
   wants to provide educational resources and activities to help people learn
   more about the different types of trees and their role in the ecosystem.
-
-## Persona 2: Maria
 
 ### Role: Arborist with Hearing Impairment
 
