@@ -1,59 +1,30 @@
 # Backlog
 
-A collection of user stories for your project. Stories inside of each priority
-level are not necessarily in order. You and your team will decide when to
-develop each story by drawing out your [Story Sequencing](#story-sequencing).
-
 ## Must-Haves
 
-are necessary for basic usability:
-
-- **user story name**: As a [type of user] I want to [do something] so that [I
-  achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- **user story name**: As a [type of user] I want to [do something] so that [I
-  achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- ...
+- Home Page
+- There is a clear and prominent title at the top of the webpage
+- [ ] The title accurately describes the page content
+- There is a visually engaging tree animation on both sides of the title.
+- [ ] The animation enhances the visual appeal of the webpage
+- The navigation bar includes an introduction section that directs users to the
+  project information.
+- [ ] The introduction section is clearly labeled and easy to find
+- The navigation bar includes links to the project information and content
+  sections
+- [ ] The links are clearly labeled and easy to find.
 
 ## Should-Haves
 
-will complete the user experience, but are not necessary:
-
-- **user story name**: As a [type of user] I want to [do something] so that [I
-  achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- **user story name**: As a [type of user] I want to [do something] so that [I
-  achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- ...
+- There is a navigation bar that includes an introduction title, a content
+  title, and links to project team, contact information, and resources
+- [ ] The navigation bar can be customized to fit the needs of the website
+- There are social media links in the footer of the page for Twitter, GitHub,
+  and LinkedIn
+- [ ] The links are easy to find and allow users to easily connect with the
+      website and its creators on various platforms.
 
 ## Could-Haves
 
-would be really cool ... if there's time:
-
-- **user story name**: As a [type of user] I want to [do something] so that [I
-  achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- **user story name**: As a [type of user] I want to [do something] so that [I
-  achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- ...
-
----
-
-## Story Sequencing
-
-![story sequencing graph](./story-sequencing-graph.svg)
+- As a user, I will feel positively engaged when I read our page.
+- [ ] There are fun and engaging animations that add to the user experience.
