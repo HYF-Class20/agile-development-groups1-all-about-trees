@@ -22,7 +22,6 @@
   wants to provide educational resources and activities to help people learn
   more about the different types of trees and their role in the ecosystem.
 
-
 ### Role: Arborist with Hearing Impairment
 
 - **Bio**: Maria is an arborist who is passionate about trees and their care.
