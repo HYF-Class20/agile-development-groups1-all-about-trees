@@ -208,9 +208,7 @@ locally.
 - The repository
   [requires a review](https://github.blog/2018-03-23-require-multiple-reviewers/)
   before pull requests can be merged.
-- The _master_/_main_ branch must "_ Require status checks to pass before
-  merging_"
-- The _master_/_main_ branch must "_ Require require branches to be up to date
-  before merging_"
+- The master/main branch must "Require status checks to pass before merging"
+- The master/main branch must "Require branches to be up to date before merging"
 
 </details>
