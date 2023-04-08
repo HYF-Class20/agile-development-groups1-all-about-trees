@@ -2,20 +2,19 @@
 
 ## Overview
 
-<<<<<<< HEAD
-This project aims to create a website that provides an online resource dedicated
-to educating and raising awareness about trees. Our platform is designed to
-cater to the needs of individuals with a range of interests and abilities. The
-website will include various resources, such as articles, diagrams, and videos,
-to educate the public on different types of trees, their importance, and how
-they can help protect them.
-=======
-The Tree Portal is a comprehensive website designed to provide individuals of
-all ages and abilities with a better understanding of trees, their importance,
-and how to protect them. Our platform offers a range of resources, including
-articles, videos, and diagrams, to educate the public on different types of
-trees and their ecological significance.
->>>>>>> master
+<<<<<<< HEAD This project aims to create a website that provides an online
+resource dedicated to educating and raising awareness about trees. Our platform
+is designed to cater to the needs of individuals with a range of interests and
+abilities. The website will include various resources, such as articles,
+diagrams, and videos, to educate the public on different types of trees, their
+importance, and how they can help protect them. ======= The Tree Portal is a
+comprehensive website designed to provide individuals of all ages and abilities
+with a better understanding of trees, their importance, and how to protect them.
+Our platform offers a range of resources, including articles, videos, and
+diagrams, to educate the public on different types of trees and their ecological
+significance.
+
+> > > > > > > master
 
 ## Table of Contents
 
@@ -32,19 +31,18 @@ trees and their ecological significance.
 
 ## Introduction
 
-<<<<<<< HEAD
-The Branching Out website is a comprehensive resource designed to provide the
-public of all ages with an understanding of trees, their types, and their
-benefits. The website was created to raise awareness about the importance of
-trees and how they can help protect them. The goal of the project is to inspire
-people to take action to protect the environment and to make a positive impact
-on their local communities.
-=======
-The Tree Portal is a valuable resource for those interested in learning more
-about trees and their impact on the ecosystem. Our platform offers a diverse
-range of content designed to be accessible and engaging for environmentalists,
-arborists, and anyone with an interest in tree conservation and education.
->>>>>>> master
+<<<<<<< HEAD The Branching Out website is a comprehensive resource designed to
+provide the public of all ages with an understanding of trees, their types, and
+their benefits. The website was created to raise awareness about the importance
+of trees and how they can help protect them. The goal of the project is to
+inspire people to take action to protect the environment and to make a positive
+impact on their local communities. ======= The Tree Portal is a valuable
+resource for those interested in learning more about trees and their impact on
+the ecosystem. Our platform offers a diverse range of content designed to be
+accessible and engaging for environmentalists, arborists, and anyone with an
+interest in tree conservation and education.
+
+> > > > > > > master
 
 ## Content
 
@@ -71,8 +69,8 @@ In addition to the above, the website includes a section on how the public can
 get involved in protecting trees and the environment. This section provides tips
 and resources on how to take action and make a difference.
 
-<<<<<<< HEAD
-=======
+# <<<<<<< HEAD
+
 ## Footer
 
 The footer of the website includes useful links, such as:
@@ -93,7 +91,8 @@ their role in the ecosystem. We aim to cater to a diverse range of interests and
 abilities by providing accessible and engaging content designed for
 environmentalists, arborists, and the general public.
 
->>>>>>> master
+> > > > > > > master
+
 ## Technology Used
 
 The website is built using HTML and CSS.
@@ -114,17 +113,14 @@ please follow these guidelines:
 
 ## Conclusion
 
-<<<<<<< HEAD
-The Branching Out project is a valuable resource for anyone interested in
-learning more about trees and their importance. Our platform offers a range of
-interactive tools and resources that can be used to educate the public. We hope
-that our platform will inspire people to take action and make a positive impact
-on their local communities.
-=======
-The Tree Portal project is an invaluable resource for anyone interested in
-learning more about trees and their importance. We hope our platform will help
-raise awareness about the benefits of trees and how we can work together to
-protect them.
+<<<<<<< HEAD The Branching Out project is a valuable resource for anyone
+interested in learning more about trees and their importance. Our platform
+offers a range of interactive tools and resources that can be used to educate
+the public. We hope that our platform will inspire people to take action and
+make a positive impact on their local communities. ======= The Tree Portal
+project is an invaluable resource for anyone interested in learning more about
+trees and their importance. We hope our platform will help raise awareness about
+the benefits of trees and how we can work together to protect them.
 
 Thank you for visiting The Tree Portal.
 
@@ -145,4 +141,4 @@ Thank you for visiting The Tree Portal.
 - [Code Quality Checks](#code-quality-checks)
 - [Continuous Integration (CI)](#continuous-integration-ci)
 - [Repo Setup](#repo-setup)
->>>>>>> master
+  > > > > > > > master
