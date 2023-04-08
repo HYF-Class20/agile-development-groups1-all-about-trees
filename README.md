@@ -14,7 +14,7 @@ Our platform offers a range of resources, including articles, videos, and
 diagrams, to educate the public on different types of trees and their ecological
 significance.
 
-> > > > > > > master
+
 
 ## Table of Contents
 
@@ -42,7 +42,7 @@ the ecosystem. Our platform offers a diverse range of content designed to be
 accessible and engaging for environmentalists, arborists, and anyone with an
 interest in tree conservation and education.
 
-> > > > > > > master
+
 
 ## Content
 
@@ -69,7 +69,6 @@ In addition to the above, the website includes a section on how the public can
 get involved in protecting trees and the environment. This section provides tips
 and resources on how to take action and make a difference.
 
-# <<<<<<< HEAD
 
 ## Footer
 
@@ -91,7 +90,6 @@ their role in the ecosystem. We aim to cater to a diverse range of interests and
 abilities by providing accessible and engaging content designed for
 environmentalists, arborists, and the general public.
 
-> > > > > > > master
 
 ## Technology Used
 
@@ -141,4 +139,3 @@ Thank you for visiting The Tree Portal.
 - [Code Quality Checks](#code-quality-checks)
 - [Continuous Integration (CI)](#continuous-integration-ci)
 - [Repo Setup](#repo-setup)
-  > > > > > > > master
