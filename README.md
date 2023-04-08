@@ -15,7 +15,6 @@ diagrams, to educate the public on different types of trees and their ecological
 significance.
 
 
-
 ## Table of Contents
 
 - [Branching Out](#branching-out)
@@ -41,8 +40,6 @@ resource for those interested in learning more about trees and their impact on
 the ecosystem. Our platform offers a diverse range of content designed to be
 accessible and engaging for environmentalists, arborists, and anyone with an
 interest in tree conservation and education.
-
-
 
 ## Content
 
@@ -73,7 +70,6 @@ and resources on how to take action and make a difference.
 ## Footer
 
 The footer of the website includes useful links, such as:
-
 - _Contact Us_: A link to a contact form where the users can provide feedback or
   ask questions.
 
@@ -94,7 +90,6 @@ environmentalists, arborists, and the general public.
 ## Technology Used
 
 The website is built using HTML and CSS.
-
 ## Contribution Guidelines
 
 Contributions to this project are welcome! If you would like to contribute,
