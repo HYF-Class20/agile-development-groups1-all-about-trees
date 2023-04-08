@@ -2,17 +2,9 @@
 
 ## Overview
 
-This project aims to create a website that provides an online
-resource dedicated to educating and raising awareness about trees. Our platform
-is designed to cater to the needs of individuals with a range of interests and
-abilities. The website will include various resources, such as articles,
-diagrams, and videos, to educate the public on different types of trees, their
-importance, and how they can help protect them.The Tree Portal is a
-comprehensive website designed to provide individuals of all ages and abilities
-with a better understanding of trees, their importance, and how to protect them.
-Our platform offers a range of resources, including articles, videos, and
-diagrams, to educate the public on different types of trees and their ecological
-significance.
+This project aims to create a website that provides an online resource dedicated to educating and raising awareness about trees. Our platform is designed to cater to the needs of individuals with a range of interests and abilities. The website will include various resources, such as articles, diagrams, and videos, to educate the public on different types of trees, their importance, and how they can help protect them.
+
+The Tree Portal is a comprehensive website designed to provide individuals of all ages and abilities with a better understanding of trees, their importance, and how to protect them. Our platform offers a range of resources, including articles, videos, and diagrams, to educate the public on different types of trees and their ecological significance.
 
 ## Table of Contents
 
@@ -29,26 +21,16 @@ significance.
 
 ## Introduction
 
-The Branching Out website is a comprehensive resource designed to
-provide the public of all ages with an understanding of trees, their types, and
-their benefits. The website was created to raise awareness about the importance
-of trees and how they can help protect them. The goal of the project is to
-inspire people to take action to protect the environment and to make a positive
-impact on their local communities.The Tree Portal is a valuable
-resource for those interested in learning more about trees and their impact on
-the ecosystem. Our platform offers a diverse range of content designed to be
-accessible and engaging for environmentalists, arborists, and anyone with an
-interest in tree conservation and education.
+The Branching Out website is a comprehensive resource designed to provide the public of all ages with an understanding of trees, their types, and their benefits. The website was created to raise awareness about the importance of trees and how they can help protect them. The goal of the project is to inspire people to take action to protect the environment and to make a positive impact on their local communities.
 
+The Tree Portal is a valuable resource for those interested in learning more about trees and their impact on the ecosystem. Our platform offers a diverse range of content designed to be accessible and engaging for environmentalists, arborists, and anyone with an interest in tree conservation and education.
 
 ## Content
 
 The website includes the following sections:
 
 - _About Trees_: A section that provides information on trees, such as their anatomy, lifecycle, and ecological significance.
-
 - _Types of Trees_: A section that covers different types of trees, including their characteristics, habitat, and distribution.
-
 - _Benefits of Trees_: A section that highlights the various benefits of trees, such as their role in mitigating climate change, improving air quality, and providing habitat for wildlife.
 
 ## Interactive Tools
@@ -64,9 +46,7 @@ In addition to the above, the website includes a section on how the public can g
 The footer of the website includes useful links, such as:
 
 - _Contact Us_: A link to a contact form where the users can provide feedback or ask questions.
-
 - _About Us_: A page that provides information about the creators of the website.
-
 - _Privacy Policy_: A page that outlines the website's privacy policy and how it protects users' information.
 
 ## Target Audience
@@ -82,12 +62,7 @@ The website is built using HTML and CSS.
 Contributions to this project are welcome! If you would like to contribute, please follow these guidelines:
 
 - Fork the repository and create a new branch for your changes.
-- Choose from the following types of contributions:
-  - Bug fixes
-  - New features
-  - Code optimization
-- Submit a pull request with your changes.
-- Ensure that your code is well-documented and follows best practices, including coding standards and conventions specified in the project.
+- Choose from the following types of contributions
 
 ## Conclusion
 
