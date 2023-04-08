@@ -1,24 +1,23 @@
-# Branching Out
+# The Tree Portal
 
 > A longer description
 
 ## Overview
 
-This project aims to create a website that provides an online resource dedicated
-to educating and raising awareness about trees. Our platform is designed to
-cater to the needs of individuals with a range of interests and abilities. The
-website will include various resources, such as articles, videos, and diagrams,
-to educate the public on different types of trees, their importance, and how
-they can help protect them.
+The Tree Portal is a comprehensive website designed to provide individuals of
+all ages and abilities with a better understanding of trees, their importance,
+and how to protect them. Our platform offers a range of resources, including
+articles, videos, and diagrams, to educate the public on different types of
+trees and their ecological significance.
 
 ## Head Section
 
 ## Introduction
 
-The Branching Out website is a comprehensive resource designed to provide the
-public of all ages with an understanding of trees, their types, and their
-benefits. The website is intended to learn about the importance of trees and how
-they can help protect them.
+The Tree Portal is a valuable resource for those interested in learning more
+about trees and their impact on the ecosystem. Our platform offers a diverse
+range of content designed to be accessible and engaging for environmentalists,
+arborists, and anyone with an interest in tree conservation and education.
 
 ## Content
 
@@ -60,16 +59,14 @@ The footer of the website includes useful links, such as:
 
 ## Target Audience
 
-The target audience for this website is individuals with an interest in trees
-and their role in the ecosystem, including environmentalists who are passionate
-about tree conservation and education, and arborists with hearing impairments
-who need accessible resources and tools to provide quality tree care services.
-The platform is designed to cater to a diverse range of interests and abilities
-by providing a content designed to be accessible and engaging.
+The target audience for this website is individuals interested in trees and
+their role in the ecosystem. We aim to cater to a diverse range of interests and
+abilities by providing accessible and engaging content designed for
+environmentalists, arborists, and the general public.
 
 ## Technology Used
 
-The website is built using HTML, CSS, and JavaScript.
+The website is built using HTML and CSS.
 
 ## Contribution Guidelines
 
@@ -84,10 +81,12 @@ please follow these guidelines:
 
 ## Conclusion
 
-The Branching Out project is a valuable resource for anyone interested in
-learning more about trees and their importance. Our platform offers a range of
-interactive tools and resources that can be used to educate the public. We hope
-that our platform will help raise.
+The Tree Portal project is an invaluable resource for anyone interested in
+learning more about trees and their importance. We hope our platform will help
+raise awareness about the benefits of trees and how we can work together to
+protect them.
+
+Thank you for visiting The Tree Portal.
 
 ## Table of contents
 
@@ -113,15 +112,12 @@ that our platform will help raise.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
-
 ## Technologies
 
 - Node 14.16.0
 - VSC code
-- JavaScript
-- ...
-
+- CSS
+- HTML
 - ...
 
 ## Setup
@@ -158,7 +154,10 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-By [Name]
+- [Saida](https://github.com/saidakf)
+- [Andreia](https://github.com/andreia-negreira)
+- [Emran](https://github.com/emran-ai)
+- [Radimir](https://github.com/R-Simonov)
 
 ## Instructions for use
 
