@@ -5,7 +5,7 @@
 This project aims to create a website that provides an online resource dedicated
 to educating and raising awareness about trees. Our platform is designed to
 cater to the needs of individuals with a range of interests and abilities. The
-website will include various resources, such as articles, videos, and diagrams,
+website will include various resources, such as articles, diagrams, and videos,
 to educate the public on different types of trees, their importance, and how
 they can help protect them.
 
