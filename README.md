@@ -72,3 +72,21 @@ Contributions to this project are welcome! If you would like to contribute, plea
 The Tree Portal project is an invaluable resource for anyone interested in learning more about trees and their importance. We hope our platform will help raise awareness about the benefits of trees and how we can work together to protect them.
 
 Thank you for visiting The Tree Portal.
+
+## Table of content
+
+- [Name of project] (#name-of-project)
+- [Table of contents](#table-of-contents)
+- [General info](#general-info)
+- [Screenshots](#screenshots)
+- [Technologies](#technologies)
+- [Setup](#setup)
+- [Code Examples](#code-examples)
+- [Features](#features)
+- [Status](#status)
+- [Inspiration](#inspiration)
+- [Contact](#contact)
+- [Instructions for use](#instructions-for-use)
+- [Code Quality Checks](#code-quality-checks)
+- [Continuous Integration (CI)](#continuous-integration-ci)
+- [Repo Setup](#repo-setup)
